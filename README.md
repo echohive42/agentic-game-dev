@@ -14,7 +14,7 @@ This project spawns 8+ AI agents that work together to design, plan, and impleme
 
 ## Key Features
 
-- Utilizes Anthropic's CLAUDE 3.5 Sonnet LLM for advanced language processing
+- Utilizes Anthropic's CLAUDE 3.5 Sonnet LLM as Agents
 - Multi-agent collaboration for comprehensive game development
 - Automated code generation and error fixing
 - Interactive feedback loop for game refinement
