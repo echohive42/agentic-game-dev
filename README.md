@@ -1,6 +1,7 @@
 # Agentic Game Dev
 
 Agentic Game Dev is an innovative tool that leverages the power of Anthropic's CLAUDE 3.5 Sonnet LLM to create Pygame games through a collaborative multi-agent system.
+Youtube video explaining with demo and code explanation: https://youtu.be/DlvRRxDwTS0
 
 ## Overview
 
