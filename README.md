@@ -5,6 +5,7 @@ Agentic Game Dev is an innovative tool that leverages the power of Anthropic's C
 [![Agentic Game Dev](https://img.youtube.com/vi/DlvRRxDwTS0/0.jpg)](https://www.youtube.com/watch?v=DlvRRxDwTS0)
 
 Youtube video explaining with demo and code explanation: [Watch here](https://youtu.be/DlvRRxDwTS0)
+#### You can find 250+ projects like this at my Patreon, where I also offer consulting: https://www.patreon.com/echohive42.
 
 
 
